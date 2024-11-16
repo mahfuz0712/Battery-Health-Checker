@@ -1,0 +1,12 @@
+build/
+dist/
+mahfuz_modules/
+Output/
+app.py
+batChecker.spec
+credits.txt
+ctk.jpg
+icon.ico
+project.json
+requirements.txt
+Setup.iss

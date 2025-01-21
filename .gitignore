@@ -1,12 +1,8 @@
 build/
 dist/
-mahfuz_modules/
-Output/
-app.py
-batChecker.spec
-credits.txt
-ctk.jpg
-icon.ico
-project.json
+.vent-windows/
+.venv-linux/
+setup/
+src/
 requirements.txt
-Setup.iss
+

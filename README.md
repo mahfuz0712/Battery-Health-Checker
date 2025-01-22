@@ -1,5 +1,5 @@
 # Battery Health Checker
-A software to generate health report of your laptop wriiten in pure python. 
+A software to generate health report of your laptop's battery wriiten in pure python. 
 
 ## Features
 * Generates battery health report that tell you actual health of your battery.

@@ -1,7 +1,5 @@
 .venv-*/
 build/
-dist/
-setup/
-src/
-app.spec
+
+
 

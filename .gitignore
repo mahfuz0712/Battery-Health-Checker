@@ -1,8 +1,7 @@
+.venv-*/
 build/
 dist/
-.vent-windows/
-.venv-linux/
 setup/
 src/
-requirements.txt
+app.spec
 

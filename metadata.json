@@ -1,0 +1,6 @@
+{
+    "name": "Battery Health Checker",
+    "description": "A tool to check the health of your device's battery and provide recommendations for improving battery life.",
+    "ageRating": "3+",
+    "category": "Utilities"
+}
